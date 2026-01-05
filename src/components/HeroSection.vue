@@ -1,6 +1,6 @@
 <template>
-  <div class="grid grid-cols-2">
-    <div class="text-start content-center">
+  <div class="flex flex-row">
+    <div class="text-start content-center mr-8">
       <h1>Join us</h1>
       <p class="text-6xl font-bold my-6">A Great Place to Receive Care</p>
       <span class="w-2">DentalCare is most focused in helping you discover your most beauiful smile.</span>

@@ -1,15 +1,18 @@
 <script setup lang="ts">
+import DemartmentsSection from './components/DemartmentsSection.vue';
+import FeaturesSection from './components/FeaturesSection.vue';
 import HeaderSection from './components/HeaderSection.vue';
 import HeroSection from './components/HeroSection.vue';
+import ImpressionSection from './components/ImpressionSection.vue';
 </script>
 
 <template>
   <HeaderSection></HeaderSection>
   <HeroSection></HeroSection>
-  
-  <div>
+  <FeaturesSection></FeaturesSection> 
+  <DemartmentsSection></DemartmentsSection>
+  <ImpressionSection></ImpressionSection>
 
-  </div>
 </template>
 
 <style scoped></style>
