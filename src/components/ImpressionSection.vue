@@ -5,8 +5,8 @@
         <span class="mx-auto">Problems trying to resolve the conflict between the two major realms of Classical physics:
             Newtonian mechanics </span>
 
-        <div class="grid grid-cols-2 gap-4 mt-6 justify-center">
-            <ImpressionItem></ImpressionItem>
+        <div class="grid grid-cols-4 gap-4 mt-6 justify-center items-center">
+            <ImpressionItem ></ImpressionItem>
             <ImpressionItem></ImpressionItem>
         </div>
     </div>
