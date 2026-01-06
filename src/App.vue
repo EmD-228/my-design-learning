@@ -4,6 +4,7 @@ import FeaturesSection from './components/FeaturesSection.vue';
 import HeaderSection from './components/HeaderSection.vue';
 import HeroSection from './components/HeroSection.vue';
 import ImpressionSection from './components/ImpressionSection.vue';
+import TestimonialsSection from './components/Testimonials.vue';
 </script>
 
 <template>
@@ -12,6 +13,7 @@ import ImpressionSection from './components/ImpressionSection.vue';
   <FeaturesSection></FeaturesSection> 
   <DemartmentsSection></DemartmentsSection>
   <ImpressionSection></ImpressionSection>
+  <TestimonialsSection></TestimonialsSection>
 
 </template>
 
