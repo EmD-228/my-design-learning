@@ -6,8 +6,8 @@
             Newtonian mechanics </span>
 
         <div class="grid grid-cols-4 gap-4 mt-6 justify-center items-center">
-            <ImpressionItem ></ImpressionItem>
-            <ImpressionItem></ImpressionItem>
+            <ImpressionItem class="col-span-1 col-start-2"></ImpressionItem>
+            <ImpressionItem class="col-span-1 col-start-3"></ImpressionItem>
         </div>
     </div>
 </template>
