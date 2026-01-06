@@ -13,6 +13,7 @@
             <TestimonialItem class="col-span-1 "></TestimonialItem>
             <TestimonialItem class="col-span-1 "></TestimonialItem>
             <TestimonialItem class="col-span-1 "></TestimonialItem>
+            
         </div>
     </div>
 </template>
