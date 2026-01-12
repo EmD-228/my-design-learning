@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-row gap-6 my-40 items-center">
+    <div class="flex flex-row gap-6 my-40 items-center max-w-full ">
         <img src="../assets/dep.png" alt="Demartments">
         <div class="flex flex-col text-start gap-4">
         <div class="w-10 h-1 bg-primary rounded-full"></div>
