@@ -11,15 +11,17 @@ import TestimonialsSection from './components/Testimonials.vue';
 </script>
 
 <template>
-  <HeaderSection></HeaderSection>
-  <HeroSection></HeroSection>
-  <FeaturesSection></FeaturesSection> 
-  <DemartmentsSection></DemartmentsSection>
-  <ImpressionSection></ImpressionSection>
-  <TestimonialsSection></TestimonialsSection>
-  <FAQ></FAQ>
-  <Newsletters></Newsletters>
-  <Footer></Footer>
+  <div class="container">
+    <HeaderSection></HeaderSection>
+    <HeroSection></HeroSection>
+    <FeaturesSection></FeaturesSection>
+    <DemartmentsSection></DemartmentsSection>
+    <ImpressionSection></ImpressionSection>
+    <TestimonialsSection></TestimonialsSection>
+    <FAQ></FAQ>
+    <Newsletters></Newsletters>
+    <Footer></Footer>
+  </div>
 </template>
 
 <style scoped></style>

@@ -1,11 +1,15 @@
 @import "tailwindcss";
 @plugin "daisyui";
-@theme{
+@plugin "daisyui/theme"{
+  name: "light";
+  default: true;
   --color-primary: #FC724D;
   --color-secondary: #26335D;
   --color-tertiary: #FFFFFF;
   --text-primary: #FC724D;
+
 }
+
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
