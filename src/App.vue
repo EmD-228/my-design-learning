@@ -11,7 +11,7 @@ import TestimonialsSection from './components/Testimonials.vue';
 </script>
 
 <template>
-  <div class="container">
+  <div class="container max-w-xs sm:max-w-[600px] md:max-w-[1000px] lg:max-w-[1200px]">
     <HeaderSection></HeaderSection>
     <HeroSection></HeroSection>
     <FeaturesSection></FeaturesSection>
