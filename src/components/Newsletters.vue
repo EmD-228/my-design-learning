@@ -1,10 +1,10 @@
 <template>
-    <div class="my-40">
+    <div class="grid items-center justify-center">
         <h2 class="text-primary ">Newletters</h2>
-        <h1 class="text-4xl font-bold my-6">Join Us</h1>
+        <h1 class="text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold my-2">Join Us</h1>
         <span class="mx-auto">Problems trying to resolve the conflict between the two major realms of Classical physics:
             Newtonian mechanics </span>
-        <div class="join w-full mx-auto mt-6">
+        <div class="join max-w-full mx-auto mt-6 ">
             <label class="input validator join-item bg-white">
                 <input class="text-black" type="email" placeholder="Your Email" required />
             </label>
