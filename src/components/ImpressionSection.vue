@@ -1,15 +1,16 @@
 <template>
-    <div class="my-40">
+    <div class="grid">
         <h2 class="text-primary ">Practice Advises</h2>
-        <h1 class="text-4xl font-bold my-6">See Our Impressions</h1>
+        <h1 class="text-xl sm:text-3xl md:text-4xl lg:text-5xl font-bold my-2">See Our Impressions</h1>
         <span class="mx-auto">Problems trying to resolve the conflict between the two major realms of Classical physics:
             Newtonian mechanics </span>
 
-        <div class="grid grid-cols-4 gap-4 mt-6 justify-center items-center">
-            <ImpressionItem class="col-span-1 col-start-2"></ImpressionItem>
-            <ImpressionItem class="col-span-1 col-start-3"></ImpressionItem>
+        <div class="grid sm:grid-cols-2 gap-4 mt-6 justify-center items-center lg:place-content-center">
+            <ImpressionItem></ImpressionItem>
+            <ImpressionItem></ImpressionItem>
         </div>
     </div>
+  
 </template>
 <script setup lang="ts">
 import ImpressionItem from './ImpressionItem.vue';
