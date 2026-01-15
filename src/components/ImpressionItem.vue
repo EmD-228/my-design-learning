@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="relative">
-            <img src="../assets/3.png" alt="Impression">
+            <img class="w-full h-full object-cover" src="../assets/3.png" alt="Impression">
             <span
                 class="flex gap-1 absolute top-2 left-2 px-2  bg-red-700 text-white text-xs font-bold rounded-sm">Sale</span>
             <div class="flex flex-row items-center gap-4 absolute bottom-2 left-1/2 icon-container -translate-x-1/2">
